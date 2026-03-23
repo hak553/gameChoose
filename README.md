@@ -14,4 +14,4 @@
 ## 📸 Screenshots
 ![In game](Game/Screenshots2.png)
 ![In game](Game/Screenshots3.png)
-![In game](Game/Screenshots1.png)
+![In game](Game/Screenshots1.jpg)
